@@ -1,8 +1,9 @@
 # Musical-Pong
+**----------Created around Nov 2017----------**
 
 ## Description
 * A version of the classic game pong, made using JUCE.
-* This was created as an entry within a hackathon for a sponsored ticket to the ADC conference **Nov 2017.**
+* This was created as an entry within a hackathon for a sponsored ticket to the ADC conference 2017.
 
 ## Hackathon Brief
 * The brief for the hackathon was...
